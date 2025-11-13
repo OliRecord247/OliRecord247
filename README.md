@@ -24,7 +24,7 @@ I’m currently expanding into **.NET (ASP.NET Core, EF Core, LINQ)** to deepen 
 ## Featured projects
 > I pin 3 repositories that tell my story. Each repo includes a one-minute README to start
 
-- **GraphQL Server** — Bun + Nest with Fastify adapter + Apollo Server + Jest + SuperTest
+- **GraphQL Server** — Bun + Nest with Fastify adapter + Apollo Server + Jest + SuperTest  
   _[MyGraphQLServer](https://github.com/OliRecord247/MyGraphQLServer)_ • unit/integration tests + GraphQL playground
 - **GraphQL React Client** — Node + Vite + Apollo client  
   _[MyGraphQLReactClient](https://github.com/OliRecord247/MyGraphQLReactClient)_
