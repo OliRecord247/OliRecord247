@@ -28,8 +28,8 @@ I’m currently expanding into **.NET (ASP.NET Core, EF Core, LINQ)** to deepen 
   _[MyGraphQLServer](https://github.com/OliRecord247/MyGraphQLServer)_ • unit/integration tests + GraphQL playground
 - **GraphQL React Client** — Node + Vite + Apollo client  
   _[MyGraphQLReactClient](https://github.com/OliRecord247/MyGraphQLReactClient)_
-- **Full-stack .NET TaskHub** — .NET + Scaller  
-  TBD
+- **SideBySide** — Simple REST-API to create users (no auth/security yet)  
+  [SideBySide](https://github.com/OliRecord247/SideBySide)
 
 ## How I work
 - Production-like dev setups with Docker Compose
