@@ -39,7 +39,6 @@ I’m currently expanding into **.NET (ASP.NET Core, EF Core, LINQ)** to deepen 
 ## Get in touch
 - **Email:** <oliver.verdesseldonck@gmail.com>
 - **LinkedIn:** [profile](https://www.linkedin.com/in/oliver-verdesseldonck/)
-- **CV:** [Canva](https://www.canva.com/design/DAGuvXGsrD4/2dCB4O5i7AH_XfRHxjIMPQ/edit?utm_content=DAGuvXGsrD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
